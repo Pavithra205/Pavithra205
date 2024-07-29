@@ -28,7 +28,9 @@
 ## 📫 Connect with me in..
 
 - 📧 [Email](mailto:pavisundhari2005@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pavithra-sivakumar-664431292)
+- 💼 [LinkedIn](https://.www.linkedin.com/in/s--pavithra)
+- [Medium](https://medium.com/@pavisundhari2005)
+- 
 
 
 
