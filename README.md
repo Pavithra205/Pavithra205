@@ -1,6 +1,6 @@
 # Hi, I'm Pavithra! 👋
 
-🎓 Pursuing my Bachelor's in **Computer Science and Engineering**  at **Sri Ramakrishna Engineering College**.I'm a passionate backend developer currently honing my skills with [Spotnack](https://spotknack.com/.) I'm a quick learner and keen observer, always excited to dive into new technologies and challenges.
+🎓 Pursuing my Bachelor's in **Computer Science and Engineering**  at **Sri Ramakrishna Engineering College**.I'm a passionate backend developer currently honing my skills with [Spotknack](https://spotknack.com/.) I'm a quick learner and keen observer, always excited to dive into new technologies and challenges.
 
 ## 📝 About Me
 
